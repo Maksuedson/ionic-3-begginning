@@ -1,5 +1,5 @@
 <div>&nbsp;</div>
-<h4>O que voc&ecirc; estou aprendendo</h4>
+<h4>O que estou aprendendo</h4>
 <ul>
 <li>Desenvolver aplicativos h&iacute;bridos para Android e IOS</li>
 </ul>
